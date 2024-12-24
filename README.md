@@ -1,1 +1,1 @@
-this a python programme
+this a python program
